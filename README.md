@@ -2,73 +2,91 @@
 
 # 📊 Vinay Kumar Kallepilli
 
-### Data Analyst • Power BI • SQL • Excel • Business Intelligence
+### **Data Analyst | Operations Analyst | MIS Analyst**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Excel;Dashboard+Storytelling;Business+Intelligence;Open+to+Data+Analyst+Roles+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Business+Insights;Power+BI+%7C+Excel+%7C+SQL;Dashboard+Storytelling;Business+Intelligence;Open+to+Work+🚀" />
 
 <br>
 
-<a href="https://linkedin.com/in/vinaykumarkallepilli">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+
 
 <a href="https://github.com/vinaykumarkallepilli">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/vinaykumarkallepilli?style=for-the-badge&logo=github&color=181717">
+</a>
+
+<a href="https://linkedin.com/in/vinaykumarkallepilli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=vinaykumarkallepilli&style=for-the-badge&color=00C2FF"/>
+
+</p>
 
 </div>
 
 ---
 
-# 📈 Analytics Dashboard
+# 📈 Executive Summary
 
-| 📊 KPI | Status |
-|:------|:------:|
-| 💼 Open to Work | ✅ |
-| 📂 Featured Projects | **2** |
-| 📊 Dashboards Built | **2** |
-| 🗄 SQL | ✅ Completed |
-| 📈 Power BI | ✅ |
-| 📑 Excel | ✅ |
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Role                Data Analyst
+
+Experience          Trust & Safety Operations
+
+Analytics           Power BI | Excel | SQL
+
+Dashboard Design    ✔
+
+Data Cleaning       ✔
+
+Business Reporting  ✔
+
+Location            Visakhapatnam, India
+
+Status              Open To Work 🚀
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-I'm a **Data Analyst** passionate about transforming raw data into meaningful business insights through **Power BI, SQL, and Excel**.
+I enjoy transforming raw business data into meaningful insights that help organizations make informed decisions.
 
-I enjoy building interactive dashboards, identifying trends, solving business problems, and presenting data in a way that supports informed decision-making.
+My experience combines operations, analytics, reporting, dashboard design, and business intelligence.
 
-Currently seeking opportunities as a:
+Currently expanding my expertise in SQL, Power BI, and end-to-end analytics projects while seeking opportunities as a:
 
 - 📊 Data Analyst
-- 📈 MIS Analyst
-- 📉 Operations Analyst
+- 📈 Operations Analyst
+- 📉 MIS Analyst
 - 📋 Business Analyst
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Analytics Toolbox
 
-<p align="center">
+### 📊 Business Intelligence
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-00C2FF?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-22C55E?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-yellow?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DAX-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-06B6D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json"/>
-
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Power_Query-blue?style=for-the-badge"/>
 
 </p>
 
@@ -78,46 +96,53 @@ Currently seeking opportunities as a:
 
 ```text
             Raw Data
-                │
-                ▼
-        Data Cleaning
-                │
-                ▼
-         SQL Analysis
-                │
-                ▼
-        Power BI Dashboard
-                │
-                ▼
-       Business Insights
-                │
-                ▼
-       Better Decisions
+               │
+               ▼
+      Data Cleaning
+               │
+               ▼
+       Data Analysis
+               │
+               ▼
+          SQL Queries
+               │
+               ▼
+      Power BI Dashboard
+               │
+               ▼
+     Business Insights
+               │
+               ▼
+      Better Decisions
 ```
 
 ---
 
-# ⭐ Featured Projects
+# 📈 Featured Projects
 
 ## 📊 Deloitte Data Analytics Virtual Experience
 
-### Business Problem
+### Business Challenge
 
-Analyze machine telemetry data across four manufacturing factories.
+Analyse machine telemetry data across manufacturing plants.
 
-### Key Highlights
+### Solution
 
-- 📈 Analysed **160,704 machine telemetry records**
-- 📊 Built an interactive **Power BI dashboard**
-- 🏭 Identified the lowest-performing factory
-- ⚙️ Detected the machine with the highest downtime
-- 📑 Classified gender pay equality scores using Excel
+✅ Analysed **160,704** telemetry records
 
-**Tools**
+✅ Built interactive Power BI dashboard
 
-`Power BI` • `Excel` • `DAX` • `JSON`
+✅ Identified worst-performing factory
 
-🔗 **Repository**
+✅ Found highest downtime machine
+
+✅ Gender pay classification using Excel
+
+**Technology**
+
+Power BI • Excel • JSON • DAX
+
+🔗 Repository
 
 https://github.com/vinaykumarkallepilli/Deloitte-Data_Analytics
 
@@ -125,30 +150,48 @@ https://github.com/vinaykumarkallepilli/Deloitte-Data_Analytics
 
 ## 📈 Amazon India Sales Dashboard
 
-### Business Problem
+### Highlights
 
-Analyze sales performance and identify revenue trends.
+📊 Sales KPI Dashboard
 
-### Key Highlights
+📦 Product Performance
 
-- 📦 Analysed **5,000+ sales records**
-- 📊 Built an interactive Excel dashboard
-- 💰 Revenue & Profit Analysis
-- 📈 KPI Dashboard
-- 🌍 Regional Sales Analysis
-- 🛒 Product Performance Analysis
+📈 Revenue Trends
 
-**Tools**
+🌎 Regional Analysis
 
-`Microsoft Excel` • `Pivot Tables` • `Dashboard Design`
+💰 Profit Analysis
 
-🔗 **Repository**
+📉 Interactive Excel Dashboard
+
+Technology
+
+Excel • Pivot Tables • Dashboard Design
+
+🔗 Repository
 
 https://github.com/vinaykumarkallepilli/Amazon-India-Sales-Analysis
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 Core Skills
+
+| Skill | Level |
+|-------|--------|
+| Power BI | ⭐⭐⭐⭐⭐ |
+| Excel | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| Dashboard Design | ⭐⭐⭐⭐⭐ |
+| Business Reporting | ⭐⭐⭐⭐⭐ |
+| Data Cleaning | ⭐⭐⭐⭐⭐ |
+| DAX | ⭐⭐⭐⭐☆ |
+| Power Query | ⭐⭐⭐⭐☆ |
+
+---
+
+
+
+# 📊 GitHub Dashboard
 
 <p align="center">
 
@@ -166,14 +209,13 @@ https://github.com/vinaykumarkallepilli/Amazon-India-Sales-Analysis
 
 ---
 
-# 🎯 Current Focus
+# 🏅 GitHub Achievements
 
-- 📊 Business Intelligence
-- 📈 Power BI Dashboard Development
-- 🗄 SQL Optimization
-- 📑 Dashboard Storytelling
-- 📊 Data Visualization
-- 🚀 Continuous Learning
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinaykumarkallepilli&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</p>
 
 ---
 
@@ -182,15 +224,15 @@ https://github.com/vinaykumarkallepilli/Amazon-India-Sales-Analysis
 <p align="center">
 
 <a href="https://linkedin.com/in/vinaykumarkallepilli">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/vinaykumarkallepilli">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:vinaykumarkallepilli000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/vinaykumarkallepilli">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -199,10 +241,8 @@ https://github.com/vinaykumarkallepilli/Amazon-India-Sales-Analysis
 
 <div align="center">
 
-## 📊 Transforming Data into Actionable Business Insights
+## 📊 "Turning Raw Data into Business Decisions."
 
-*"Good analytics doesn't just explain the past—it helps shape better decisions for the future."*
-
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ Thanks for visiting my profile!
 
 </div>
